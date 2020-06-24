@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Examen2_Fragmentos</string>
+    <string-array name="modo">
+        <item>Lista</item>
+        <item>Grilla</item>
+    </string-array>
+
+    <string-array name="paises">
+        <item>Peru</item>
+        <item>Brazil</item>
+        <item>Colombia</item>
+        <item>Chile</item>
+        <item>Ecuador</item>
+    </string-array>
 </resources>
